@@ -16,11 +16,11 @@ This script automates the creation of a professional, production-ready Terraform
 
 ### Linux / macOS / WSL
 ```bash
-curl -sSL [https://raw.githubusercontent.com/FPLescano/tf-structure-generator/main/setup_tf.sh](https://raw.githubusercontent.com/FPLescano/tf-structure-generator/main/setup_tf.sh) | bash
+curl -sSL https://raw.githubusercontent.com/FPLescano/tf-structure-generator/main/setup_tf.sh | bash
 
 ### Windows (PowerShell)
 
-iwr [https://raw.githubusercontent.com/FPLescano/tf-structure-generator/main/setup_tf.ps1](https://raw.githubusercontent.com/FPLescano/tf-structure-generator/main/setup_tf.ps1) | iex
+iwr https://raw.githubusercontent.com/FPLescano/tf-structure-generator/main/setup_tf.ps1 | iex
 
    ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
