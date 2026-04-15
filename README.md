@@ -4,13 +4,11 @@
 >*Image source/credits: [https://www.linkedin.com/in/jaswindder-kummar/]*
 Project Structure
 
-Image source/credits: Jaswinder Kumar
-
 This script automates the creation of a professional, production-ready Terraform directory structure.
 
 ## Structure Overview
 
-- ** environments/: Isolated configurations for Dev and Prod.
+- **environments/: Isolated configurations for Dev and Prod.
 
 - **modules/: Reusable infrastructure components.
 
