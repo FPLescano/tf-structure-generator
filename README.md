@@ -1,5 +1,9 @@
 # Terraform Project Boilerplate
 
+## Project Structure
+![Terraform Structure](./image.png)
+> **Image Credits:** Reference architecture based on industry best practices for Terraform enterprise layouts.
+
 This script automates the creation of a professional, production-ready Terraform directory structure.
 
 ## Structure Overview
@@ -18,4 +22,3 @@ This script automates the creation of a professional, production-ready Terraform
    ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-imag/(image.png)
