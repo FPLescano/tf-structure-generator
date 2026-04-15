@@ -8,13 +8,13 @@ This script automates the creation of a professional, production-ready Terraform
 
 ## Structure Overview
 
-- **environments/: Isolated configurations for Dev and Prod.
+- **environments/**: Isolated configurations for Dev and Prod.
 
-- **modules/: Reusable infrastructure components.
+- **modules/**: Reusable infrastructure components.
 
-- **policies/: Security and compliance using Sentinel and OPA.
+- **policies/**: Security and compliance using Sentinel and OPA.
 
-- **scripts/: Automation wrappers for CI/CD.
+- **scripts/**: Automation wrappers for CI/CD.
 
 ## Quick Start
 
