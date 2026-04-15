@@ -14,3 +14,8 @@ This script automates the creation of a professional, production-ready Terraform
    ```bash
    chmod +x setup_tf.sh
    ./setup_tf.sh
+
+   ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+imag/(image.png)
