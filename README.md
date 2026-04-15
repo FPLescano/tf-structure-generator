@@ -1,8 +1,8 @@
 
 ## Terraform Project Boilerplate
 ![Terraform Structure](./img/image.png)
->*Image source/credits: [https://www.linkedin.com/in/jaswindder-kummar/]*
-Project Structure
+>*Image source/credits/*: [https://www.linkedin.com/in/jaswindder-kummar/]*
+
 
 This script automates the creation of a professional, production-ready Terraform directory structure.
 
