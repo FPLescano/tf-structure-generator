@@ -1,8 +1,8 @@
 # Terraform Project Boilerplate
 
 ## Project Structure
-![Terraform Structure](./image.png)
-> **Image Credits:** Reference architecture based on industry best practices for Terraform enterprise layouts.
+![Terraform Structure](./img/image.png)
+>*Image source/credits: [https://www.linkedin.com/in/jaswindder-kummar/]*
 
 This script automates the creation of a professional, production-ready Terraform directory structure.
 
